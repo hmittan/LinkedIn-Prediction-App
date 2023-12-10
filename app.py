@@ -69,7 +69,7 @@ with st.form(key='my_form_to_submit'):
     st.write("4 - Some college, no degree")
     st.write("5 - Two-year associate degree")
     st.write("6 - Four-year Bachelor's degree")
-    st.write("7 - Postgraduate or professional degree")
+    st.write("7 - Some postgraduate or professional schooling")
     st.write("8 - Postgraduate or professional degree")
 
     person_pred[5] = st.selectbox(
